@@ -1,6 +1,6 @@
 # Python-Study-Note
 Python 알고리즘 스터디를 위한 노트
-* [자료형](#자료형)
+* [자료형](https://github.com/thkim0118/Python-Study-Note/blob/main/Type.md)
   * [실수형 표현 방식](#실수형-표현-방식)
   * [연산](#연산)
   * [리스트](#리스트)
