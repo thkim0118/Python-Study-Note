@@ -10,4 +10,13 @@ Python 알고리즘 스터디를 위한 노트
 * [문자열 자료형](https://github.com/thkim0118/Python-Study-Note/blob/main/StringType.md)
   * [문자열 초기화](https://github.com/thkim0118/Python-Study-Note/blob/main/StringType.md#문자열-초기화)
   * [문자열 연산](https://github.com/thkim0118/Python-Study-Note/blob/main/StringType.md#문자열-연산)
+* [튜플 자료형](https://github.com/thkim0118/Python-Study-Note/blob/main/TupleType.md)
+  * [튜플 자료형이란](https://github.com/thkim0118/Python-Study-Note/blob/main/TupleType.md#튜플-자료형이란)
+* [사전 자료형](https://github.com/thkim0118/Python-Study-Note/blob/main/DictionaryType.md)
+  * [사전 자료형이란](https://github.com/thkim0118/Python-Study-Note/blob/main/DictionaryType.md#사전-자료형이란)
+  * [사전 자료형 관련 함수](https://github.com/thkim0118/Python-Study-Note/blob/main/DictionaryType.md#사전-자료형-관련-함수)
+* [집합 자료형](https://github.com/thkim0118/Python-Study-Note/blob/main/SetType.md)
+  * [집합 자료형이란](https://github.com/thkim0118/Python-Study-Note/blob/main/SetType.md#집합-자료형이란)
+  * [집합 자료형의 연산](https://github.com/thkim0118/Python-Study-Note/blob/main/SetType.md#집합-자료형의-연산)
+  * [집합 자료형 관련 함수](https://github.com/thkim0118/Python-Study-Note/blob/main/SetType.md#집합-자료형-관련-함수)
 ---
