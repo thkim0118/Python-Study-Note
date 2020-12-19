@@ -8,6 +8,6 @@ Python 알고리즘 스터디를 위한 노트
   * [리스트 컴프리헨션](https://github.com/thkim0118/Python-Study-Note/blob/main/NumType.md#리스트-컴프리헨션)
   * [리스트 관련 기타 메서드](https://github.com/thkim0118/Python-Study-Note/blob/main/NumType.md#리스트-관련-기타-메서드)
 * [문자열 자료형](https://github.com/thkim0118/Python-Study-Note/blob/main/StringType.md)
- * [문자열 초기화](https://github.com/thkim0118/Python-Study-Note/blob/main/StringType.md#문자열-초기화)
- * [문자열 연산](https://github.com/thkim0118/Python-Study-Note/blob/main/StringType.md#문자열-연산)
+  * [문자열 초기화](https://github.com/thkim0118/Python-Study-Note/blob/main/StringType.md#문자열-초기화)
+  * [문자열 연산](https://github.com/thkim0118/Python-Study-Note/blob/main/StringType.md#문자열-연산)
 ---
